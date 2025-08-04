@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1751478953 source:c:\users\hp\downloads\gaming\main.cpp
+	<iostream>
+	<vector>
+	<conio.h>
+	<windows.h>
+	<ctime>
+
